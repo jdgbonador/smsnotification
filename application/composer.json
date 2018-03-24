@@ -1,0 +1,8 @@
+{
+    "name": "john/triune",
+    "description": "Codeigniter SMS Notification Project",
+    "type": "project",
+    "require": {
+        "nexmo/client": "^1.3"
+    }
+}
